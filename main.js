@@ -1,1 +1,1 @@
-fuck you all
+alert('hi')
